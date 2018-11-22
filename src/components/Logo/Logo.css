@@ -1,0 +1,9 @@
+.leftAlign {
+	display: flex;
+	justify-content: flex-start;
+	float: left;
+}
+
+.bgmGrad {
+	background: linear-gradient(to right, rgb(139, 182, 138), rgb(203, 43, 10));
+}
